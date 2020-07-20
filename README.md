@@ -6,6 +6,6 @@ If you have python installed, simply download the .py file and run it.
 If you wish to use this program without python installed, simply download the .exe installer file.
 
 # ADDITIONAL
-You can also visit the website - 
+You can also visit the website - https://jordanleich.github.io/Graphic-Creator/ for additional information.
 
 ![](images/graphic.jpg) 
