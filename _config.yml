@@ -1,0 +1,8 @@
+title: Graphic-creator
+description: This is a turtle program that allows the users to be given many options to create their own custom or randomly generated graphic!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
